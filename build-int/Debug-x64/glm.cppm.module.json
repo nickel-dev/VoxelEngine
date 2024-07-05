@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "C:\\Users\\Daniel\\source\\repos\\Unventure\\build-int\\Debug-x64\\glm.cppm.obj",
+            "outputs": [
+                "C:\\Users\\Daniel\\source\\repos\\Unventure\\build-int\\Debug-x64\\vc143.pdb",
+                "C:\\Users\\Daniel\\source\\repos\\Unventure\\build-int\\Debug-x64\\",
+                "C:\\Users\\Daniel\\source\\repos\\Unventure\\build-int\\Debug-x64\\glm.cppm.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "glm",
+                    "source-path": "c:\\users\\daniel\\source\\repos\\unventure\\third_party\\glm\\glm.cppm",
+                    "is-interface": true
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+﻿  Scanning sources for module dependencies...
+  main.cpp
+C:\Users\Daniel\source\repos\Dungeons\source\main.cpp(121,5): warning C4065: switch statement contains 'default' but no 'case' labels
+C:\Users\Daniel\source\repos\Dungeons\source\main.cpp(143,18): warning C4244: '=': conversion from 'BlockDirection' to 'F32', possible loss of data
+C:\Users\Daniel\source\repos\Dungeons\source\main.cpp(293,106): warning C4244: 'initializing': conversion from 'double' to 'I32', possible loss of data
+C:\Users\Daniel\source\repos\Dungeons\source\main.cpp(293,22): warning C4244: 'initializing': conversion from 'double' to 'const I32', possible loss of data
+C:\Users\Daniel\source\repos\Dungeons\source\main.cpp(503,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Daniel\source\repos\Dungeons\source\main.cpp(408,9): warning C4297: 'SDL_main': function assumed not to throw an exception but does
+C:\Users\Daniel\source\repos\Dungeons\source\main.cpp(431,9): warning C4297: 'SDL_main': function assumed not to throw an exception but does
+C:\Users\Daniel\source\repos\Dungeons\source\main.cpp(436,13): warning C4297: 'SDL_main': function assumed not to throw an exception but does
+  Dungeons.vcxproj -> C:\Users\Daniel\source\repos\Dungeons\build\Debug-x64\Dungeons.exe

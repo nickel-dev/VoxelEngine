@@ -1,0 +1,9 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\daniel\\source\\repos\\unventure\\third_party\\glm\\glm.cppm",
+        "ProvidedModule": "glm",
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
